@@ -26,6 +26,7 @@ export const RepositoryInfo = styled.section`
   margin-top: 80px;
 
   header {
+    flex: 1;
     display: flex;
     align-items: center;
 
